@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 this is master
 
+>>>>>>> dev1
