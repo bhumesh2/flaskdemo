@@ -1,1 +1,1 @@
-hello group5
+print("hello group5")
